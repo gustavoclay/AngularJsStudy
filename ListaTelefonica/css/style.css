@@ -15,3 +15,12 @@
 .form-control {
 	margin-bottom: 10px;
 }
+
+.selecionado {
+	background-color: red;
+	color: white;
+}
+
+.negrito {
+	font-weight: bold;
+}
